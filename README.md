@@ -6,3 +6,5 @@ Profiles of Yoruba HapMap Individuals, see the limma R package user guide.
 
 All data extracted from limma R package.
 
+`yoruba_sample_info` extracted manually.
+
