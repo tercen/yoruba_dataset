@@ -8,3 +8,6 @@ All data extracted from limma R package.
 
 `yoruba_sample_info` extracted manually.
 
+
+The data is orginally from 
+(https://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-3/)
